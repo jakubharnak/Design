@@ -2,6 +2,6 @@
 
 tools:
 ------
-Figma
-Krita
+- Figma
+- Krita
  
