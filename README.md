@@ -1,2 +1,7 @@
-# Figma
+# Design 
+
+tools:
+------
+Figma
+Krita
  
